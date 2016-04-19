@@ -1,0 +1,13 @@
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Views\PaymentAuthorizeNet\Configure.cshtml
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Views\PaymentAuthorizeNet\PaymentInfo.cshtml
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\web.config
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Description.txt
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\logo.jpg
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Nop.Plugin.Payments.AuthorizeNet.dll.config
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Nop.Plugin.Payments.AuthorizeNet.dll
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Nop.Plugin.Payments.AuthorizeNet.XmlSerializers.dll
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Nop.Plugin.Payments.AuthorizeNet.pdb
+C:\Projects\Nop\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Release\Nop.Plugin.Payments.AuthorizeNet.dll
+C:\Projects\Nop\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Release\Nop.Plugin.Payments.AuthorizeNet.pdb
+C:\Projects\Nop\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Release\Nop.Plugin.Payments.AuthorizeNet.XmlSerializers.dll
+C:\Projects\Nop\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Release\Nop.Plugin.Payments.AuthorizeNet.csprojResolveAssemblyReference.cache

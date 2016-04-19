@@ -1,0 +1,21 @@
+C:\Projects\Presentation\Nop.Web\bin\AutoMapper.Net4.dll
+C:\Projects\Presentation\Nop.Web\bin\Nop.Admin.dll.config
+C:\Projects\Presentation\Nop.Web\bin\Nop.Admin.dll
+C:\Projects\Presentation\Nop.Web\bin\Nop.Admin.pdb
+C:\Projects\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.csprojResolveAssemblyReference.cache
+C:\Projects\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.dll
+C:\Projects\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.pdb
+C:\Projects\Nop\Presentation\Nop.Web\bin\AutoMapper.Net4.dll
+C:\Projects\Nop\Presentation\Nop.Web\bin\Nop.Admin.dll.config
+C:\Projects\Nop\Presentation\Nop.Web\bin\Nop.Admin.dll
+C:\Projects\Nop\Presentation\Nop.Web\bin\Nop.Admin.pdb
+C:\Projects\Nop\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.csprojResolveAssemblyReference.cache
+C:\Projects\Nop\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.dll
+C:\Projects\Nop\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.pdb
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web\bin\AutoMapper.Net4.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web\bin\Nop.Admin.dll.config
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web\bin\Nop.Admin.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web\bin\Nop.Admin.pdb
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.csprojResolveAssemblyReference.cache
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.pdb

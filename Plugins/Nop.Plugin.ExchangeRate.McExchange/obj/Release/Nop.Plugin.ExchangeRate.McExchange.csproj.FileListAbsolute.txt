@@ -1,0 +1,8 @@
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\Description.txt
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\logo.jpg
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\Nop.Plugin.ExchangeRate.McExchange.dll.config
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\Nop.Plugin.ExchangeRate.McExchange.dll
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\Nop.Plugin.ExchangeRate.McExchange.pdb
+C:\Projects\Nop\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Release\Nop.Plugin.ExchangeRate.McExchange.csprojResolveAssemblyReference.cache
+C:\Projects\Nop\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Release\Nop.Plugin.ExchangeRate.McExchange.dll
+C:\Projects\Nop\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Release\Nop.Plugin.ExchangeRate.McExchange.pdb

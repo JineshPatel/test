@@ -1,0 +1,17 @@
+C:\Projects\Tests\Nop.Tests\bin\Debug\Nop.Tests.dll
+C:\Projects\Tests\Nop.Tests\bin\Debug\Nop.Tests.pdb
+C:\Projects\Tests\Nop.Tests\bin\Debug\nunit.framework.dll
+C:\Projects\Tests\Nop.Tests\bin\Debug\Rhino.Mocks.dll
+C:\Projects\Tests\Nop.Tests\bin\Debug\nunit.framework.xml
+C:\Projects\Tests\Nop.Tests\bin\Debug\Rhino.Mocks.xml
+C:\Projects\Tests\Nop.Tests\obj\Debug\Nop.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\Tests\Nop.Tests\obj\Debug\Nop.Tests.dll
+C:\Projects\Tests\Nop.Tests\obj\Debug\Nop.Tests.pdb
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Tests\Nop.Tests\bin\Debug\Nop.Tests.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Tests\Nop.Tests\bin\Debug\Nop.Tests.pdb
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Tests\Nop.Tests\bin\Debug\nunit.framework.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Tests\Nop.Tests\bin\Debug\Rhino.Mocks.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Tests\Nop.Tests\bin\Debug\nunit.framework.xml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Tests\Nop.Tests\bin\Debug\Rhino.Mocks.xml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Tests\Nop.Tests\obj\Debug\Nop.Tests.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Tests\Nop.Tests\obj\Debug\Nop.Tests.pdb

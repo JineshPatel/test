@@ -1,0 +1,11 @@
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Feed.Froogle\Views\FeedFroogle\Configure.cshtml
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Feed.Froogle\Description.txt
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Feed.Froogle\web.config
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Feed.Froogle\Content\styles.css
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Feed.Froogle\logo.jpg
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.dll.config
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.dll
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.pdb
+C:\Projects\Nop\Plugins\Nop.Plugin.Feed.Froogle\obj\Release\Nop.Plugin.Feed.Froogle.csprojResolveAssemblyReference.cache
+C:\Projects\Nop\Plugins\Nop.Plugin.Feed.Froogle\obj\Release\Nop.Plugin.Feed.Froogle.dll
+C:\Projects\Nop\Plugins\Nop.Plugin.Feed.Froogle\obj\Release\Nop.Plugin.Feed.Froogle.pdb

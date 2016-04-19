@@ -1,0 +1,144 @@
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Nop.Web.Framework.dll.config
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Nop.Web.Framework.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Nop.Web.Framework.pdb
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Antlr3.Runtime.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Autofac.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Autofac.Integration.Mvc.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\EntityFramework.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\EntityFramework.SqlServer.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\FluentValidation.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Newtonsoft.Json.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Nop.Core.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Nop.Data.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Nop.Services.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Recaptcha.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\System.Web.Helpers.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\System.Web.Mvc.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\System.Web.Optimization.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\System.Web.Razor.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\System.Web.WebPages.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\System.Web.WebPages.Razor.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\WebActivator.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\WebGrease.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\itextsharp.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\UserAgentStringLibrary.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\MaxMind.GeoIP2.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\MaxMind.Db.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\EPPlus.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\ImageResizer.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\PerlRegex.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Nop.Core.pdb
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Nop.Data.pdb
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Nop.Services.pdb
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Antlr3.Runtime.pdb
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Autofac.xml
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Autofac.Integration.Mvc.xml
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\EntityFramework.xml
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\EntityFramework.SqlServer.xml
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\FluentValidation.pdb
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\FluentValidation.xml
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Newtonsoft.Json.xml
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Recaptcha.pdb
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\System.Web.Helpers.xml
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\System.Web.Mvc.xml
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\System.Web.Optimization.xml
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\System.Web.Razor.xml
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\System.Web.WebPages.xml
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\System.Web.WebPages.Razor.xml
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\itextsharp.xml
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\MaxMind.GeoIP2.xml
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\MaxMind.Db.xml
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\EPPlus.xml
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\ImageResizer.xml
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\da\FluentValidation.resources.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\de\FluentValidation.resources.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\es\FluentValidation.resources.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\fi\FluentValidation.resources.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\fr\FluentValidation.resources.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\it\FluentValidation.resources.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\ko\FluentValidation.resources.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\nl\FluentValidation.resources.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\pl\FluentValidation.resources.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\pt\FluentValidation.resources.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\ru\FluentValidation.resources.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\sv\FluentValidation.resources.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\tr\FluentValidation.resources.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Nop.Services.XmlSerializers.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\obj\Release\Nop.Web.Framework.csprojResolveAssemblyReference.cache
+C:\Projects\Nop\Presentation\Nop.Web.Framework\obj\Release\Nop.Web.Framework.dll
+C:\Projects\Nop\Presentation\Nop.Web.Framework\obj\Release\Nop.Web.Framework.pdb
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Nop.Web.Framework.dll.config
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Nop.Web.Framework.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Nop.Web.Framework.pdb
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Antlr3.Runtime.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Autofac.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Autofac.Integration.Mvc.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\EntityFramework.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\FluentValidation.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Newtonsoft.Json.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Nop.Core.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Nop.Data.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Nop.Services.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Recaptcha.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\System.Web.Helpers.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\System.Web.Mvc.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\System.Web.Optimization.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\System.Web.Razor.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\System.Web.WebPages.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\System.Web.WebPages.Razor.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\WebActivator.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\WebGrease.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\itextsharp.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\UserAgentStringLibrary.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\MaxMind.GeoIP2.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\MaxMind.Db.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\EPPlus.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\ImageResizer.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\PerlRegex.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Nop.Core.pdb
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Nop.Data.pdb
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Nop.Services.pdb
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Antlr3.Runtime.pdb
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Autofac.xml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Autofac.Integration.Mvc.xml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\EntityFramework.xml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\FluentValidation.pdb
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\FluentValidation.xml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Newtonsoft.Json.xml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Recaptcha.pdb
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\System.Web.Helpers.xml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\System.Web.Mvc.xml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\System.Web.Optimization.xml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\System.Web.Razor.xml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\System.Web.WebPages.xml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\System.Web.WebPages.Razor.xml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\itextsharp.xml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\MaxMind.GeoIP2.xml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\MaxMind.Db.xml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\EPPlus.xml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\ImageResizer.xml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\da\FluentValidation.resources.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\de\FluentValidation.resources.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\es\FluentValidation.resources.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\fi\FluentValidation.resources.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\fr\FluentValidation.resources.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\it\FluentValidation.resources.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\ko\FluentValidation.resources.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\nl\FluentValidation.resources.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\pl\FluentValidation.resources.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\pt\FluentValidation.resources.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\ru\FluentValidation.resources.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\sv\FluentValidation.resources.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\tr\FluentValidation.resources.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\bin\Release\Nop.Services.XmlSerializers.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\obj\Release\Nop.Web.Framework.csprojResolveAssemblyReference.cache
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\obj\Release\Nop.Web.Framework.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web.Framework\obj\Release\Nop.Web.Framework.pdb

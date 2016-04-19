@@ -1,0 +1,7 @@
+C:\Projects\Nop\Presentation\Nop.Web\bin\AutoMapper.Net4.dll
+C:\Projects\Nop\Presentation\Nop.Web\bin\Nop.Admin.dll.config
+C:\Projects\Nop\Presentation\Nop.Web\bin\Nop.Admin.dll
+C:\Projects\Nop\Presentation\Nop.Web\bin\Nop.Admin.pdb
+C:\Projects\Nop\Presentation\Nop.Web\Administration\obj\Release\Nop.Admin.csprojResolveAssemblyReference.cache
+C:\Projects\Nop\Presentation\Nop.Web\Administration\obj\Release\Nop.Admin.dll
+C:\Projects\Nop\Presentation\Nop.Web\Administration\obj\Release\Nop.Admin.pdb

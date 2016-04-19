@@ -1,0 +1,13 @@
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Views\ShippingByWeight\Configure.cshtml
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Views\ShippingByWeight\EditPopup.cshtml
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Views\ShippingByWeight\_CreateOrUpdate.cshtml
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Views\ShippingByWeight\AddPopup.cshtml
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Shipping.ByWeight\web.config
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Description.txt
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Shipping.ByWeight\logo.jpg
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Nop.Plugin.Shipping.ByWeight.dll.config
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Nop.Plugin.Shipping.ByWeight.dll
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Nop.Plugin.Shipping.ByWeight.pdb
+C:\Projects\Nop\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Release\Nop.Plugin.Shipping.ByWeight.csprojResolveAssemblyReference.cache
+C:\Projects\Nop\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Release\Nop.Plugin.Shipping.ByWeight.dll
+C:\Projects\Nop\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Release\Nop.Plugin.Shipping.ByWeight.pdb

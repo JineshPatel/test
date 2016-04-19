@@ -1,0 +1,84 @@
+C:\Projects\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Description.txt
+C:\Projects\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Views\MiscFacebookShop\Index.cshtml
+C:\Projects\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Views\MiscFacebookShop\Layout.cshtml
+C:\Projects\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Views\MiscFacebookShop\CategoryNavigation.cshtml
+C:\Projects\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Views\MiscFacebookShop\Category.cshtml
+C:\Projects\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Views\MiscFacebookShop\ProductBox.cshtml
+C:\Projects\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Views\MiscFacebookShop\HomePageProducts.cshtml
+C:\Projects\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Views\MiscFacebookShop\Footer.cshtml
+C:\Projects\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Views\MiscFacebookShop\Header.cshtml
+C:\Projects\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Views\MiscFacebookShop\SearchBox.cshtml
+C:\Projects\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Views\MiscFacebookShop\Search.cshtml
+C:\Projects\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Views\MiscFacebookShop\Configure.cshtml
+C:\Projects\Presentation\Nop.Web\Plugins\Misc.FacebookShop\web.config
+C:\Projects\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\logo.gif
+C:\Projects\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-background.png
+C:\Projects\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-divider.png
+C:\Projects\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-list-image-hover.png
+C:\Projects\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-list-image.png
+C:\Projects\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-triangle.png
+C:\Projects\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\styles.css
+C:\Projects\Presentation\Nop.Web\Plugins\Misc.FacebookShop\logo.jpg
+C:\Projects\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Scripts\jquery-1.10.2.min.js
+C:\Projects\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Nop.Plugin.Misc.FacebookShop.dll.config
+C:\Projects\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Nop.Plugin.Misc.FacebookShop.dll
+C:\Projects\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Nop.Plugin.Misc.FacebookShop.pdb
+C:\Projects\Plugins\Nop.Plugin.Misc.FacebookShop\obj\Debug\Nop.Plugin.Misc.FacebookShop.csprojResolveAssemblyReference.cache
+C:\Projects\Plugins\Nop.Plugin.Misc.FacebookShop\obj\Debug\Nop.Plugin.Misc.FacebookShop.dll
+C:\Projects\Plugins\Nop.Plugin.Misc.FacebookShop\obj\Debug\Nop.Plugin.Misc.FacebookShop.pdb
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Description.txt
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Views\MiscFacebookShop\Index.cshtml
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Views\MiscFacebookShop\Layout.cshtml
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Views\MiscFacebookShop\CategoryNavigation.cshtml
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Views\MiscFacebookShop\Category.cshtml
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Views\MiscFacebookShop\ProductBox.cshtml
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Views\MiscFacebookShop\HomePageProducts.cshtml
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Views\MiscFacebookShop\Footer.cshtml
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Views\MiscFacebookShop\Header.cshtml
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Views\MiscFacebookShop\SearchBox.cshtml
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Views\MiscFacebookShop\Search.cshtml
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Views\MiscFacebookShop\Configure.cshtml
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\web.config
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\logo.gif
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-background.png
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-divider.png
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-list-image-hover.png
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-list-image.png
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-triangle.png
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\styles.css
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\logo.jpg
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Scripts\jquery-1.10.2.min.js
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Nop.Plugin.Misc.FacebookShop.dll.config
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Nop.Plugin.Misc.FacebookShop.dll
+C:\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Nop.Plugin.Misc.FacebookShop.pdb
+C:\Projects\Nop\Plugins\Nop.Plugin.Misc.FacebookShop\obj\Debug\Nop.Plugin.Misc.FacebookShop.csprojResolveAssemblyReference.cache
+C:\Projects\Nop\Plugins\Nop.Plugin.Misc.FacebookShop\obj\Debug\Nop.Plugin.Misc.FacebookShop.dll
+C:\Projects\Nop\Plugins\Nop.Plugin.Misc.FacebookShop\obj\Debug\Nop.Plugin.Misc.FacebookShop.pdb
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Description.txt
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Views\MiscFacebookShop\Index.cshtml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Views\MiscFacebookShop\Layout.cshtml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Views\MiscFacebookShop\CategoryNavigation.cshtml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Views\MiscFacebookShop\Category.cshtml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Views\MiscFacebookShop\ProductBox.cshtml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Views\MiscFacebookShop\HomePageProducts.cshtml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Views\MiscFacebookShop\Footer.cshtml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Views\MiscFacebookShop\Header.cshtml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Views\MiscFacebookShop\SearchBox.cshtml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Views\MiscFacebookShop\Search.cshtml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Views\MiscFacebookShop\Configure.cshtml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\web.config
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\logo.gif
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-background.png
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-divider.png
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-list-image-hover.png
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-list-image.png
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\images\top-menu-triangle.png
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Content\styles.css
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\logo.jpg
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Scripts\jquery-1.10.2.min.js
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Nop.Plugin.Misc.FacebookShop.dll.config
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Nop.Plugin.Misc.FacebookShop.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Nop.Plugin.Misc.FacebookShop.pdb
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Plugins\Nop.Plugin.Misc.FacebookShop\obj\Debug\Nop.Plugin.Misc.FacebookShop.csprojResolveAssemblyReference.cache
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Plugins\Nop.Plugin.Misc.FacebookShop\obj\Debug\Nop.Plugin.Misc.FacebookShop.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Plugins\Nop.Plugin.Misc.FacebookShop\obj\Debug\Nop.Plugin.Misc.FacebookShop.pdb

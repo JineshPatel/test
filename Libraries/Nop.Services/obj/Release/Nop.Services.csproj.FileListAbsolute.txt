@@ -1,0 +1,98 @@
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\Nop.Services.dll.config
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\Nop.Services.dll
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\Nop.Services.XmlSerializers.dll
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\Nop.Services.pdb
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\Autofac.dll
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\EPPlus.dll
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\ImageResizer.dll
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\ImageResizer.Plugins.PrettyGifs.dll
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\itextsharp.dll
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\MaxMind.Db.dll
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\MaxMind.GeoIP2.dll
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\Newtonsoft.Json.dll
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\Nop.Core.dll
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\Nop.Data.dll
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\PerlRegex.dll
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\RestSharp.dll
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\System.Web.Helpers.dll
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\System.Web.Mvc.dll
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\System.Web.Razor.dll
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\System.Web.WebPages.dll
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\System.Web.WebPages.Razor.dll
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\UserAgentStringLibrary.dll
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\Autofac.Integration.Mvc.dll
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\EntityFramework.dll
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\Nop.Core.pdb
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\Nop.Data.pdb
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\Autofac.xml
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\EPPlus.xml
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\ImageResizer.xml
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\ImageResizer.Plugins.PrettyGifs.xml
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\itextsharp.xml
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\MaxMind.Db.xml
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\MaxMind.GeoIP2.xml
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\Newtonsoft.Json.xml
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\RestSharp.xml
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\System.Web.Helpers.xml
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\System.Web.Mvc.xml
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\System.Web.Razor.xml
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\System.Web.WebPages.xml
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\System.Web.WebPages.Razor.xml
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\Autofac.Integration.Mvc.xml
+C:\Projects\Nop\Libraries\Nop.Services\bin\Release\EntityFramework.xml
+C:\Projects\Nop\Libraries\Nop.Services\obj\Release\Nop.Services.csprojResolveAssemblyReference.cache
+C:\Projects\Nop\Libraries\Nop.Services\obj\Release\Nop.Services.dll
+C:\Projects\Nop\Libraries\Nop.Services\obj\Release\Nop.Services.pdb
+C:\Projects\Nop\Libraries\Nop.Services\obj\Release\Nop.Services.XmlSerializers.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\Nop.Services.dll.config
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\Nop.Services.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\Nop.Services.XmlSerializers.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\Nop.Services.pdb
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\Autofac.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\EPPlus.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\ImageResizer.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\ImageResizer.Plugins.PrettyGifs.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\itextsharp.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\MaxMind.Db.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\MaxMind.GeoIP2.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\Newtonsoft.Json.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\Nop.Core.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\Nop.Data.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\PerlRegex.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\RestSharp.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\System.Web.Helpers.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\System.Web.Mvc.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\System.Web.Razor.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\System.Web.WebPages.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\System.Web.WebPages.Razor.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\UserAgentStringLibrary.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\Autofac.Integration.Mvc.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\EntityFramework.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\Nop.Core.pdb
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\Nop.Data.pdb
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\Autofac.xml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\EPPlus.xml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\ImageResizer.xml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\ImageResizer.Plugins.PrettyGifs.xml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\itextsharp.xml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\MaxMind.Db.xml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\MaxMind.GeoIP2.xml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\Newtonsoft.Json.xml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\RestSharp.xml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\System.Web.Helpers.xml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\System.Web.Mvc.xml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\System.Web.Razor.xml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\System.Web.WebPages.xml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\System.Web.WebPages.Razor.xml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\Autofac.Integration.Mvc.xml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\bin\Release\EntityFramework.xml
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\obj\Release\Nop.Services.csprojResolveAssemblyReference.cache
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\obj\Release\Nop.Services.dll
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\obj\Release\Nop.Services.pdb
+C:\Users\jpatel2\Documents\Visual Studio 2013\Projects\Nop\Libraries\Nop.Services\obj\Release\Nop.Services.XmlSerializers.dll
